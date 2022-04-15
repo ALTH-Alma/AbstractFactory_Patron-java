@@ -2,7 +2,7 @@
 public class HorrorMovieCatalog implements MovieCatalog{
 
     @Override
-    public void showCatalo() {
+    public void showCatalog() {
         System.out.println("Se muestra catalogo de peliculas de horror.");
         
     }

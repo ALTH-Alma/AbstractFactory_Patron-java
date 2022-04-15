@@ -2,7 +2,7 @@
 public class FantasySeriesCatalog implements SeriesCatalog{
 
     @Override
-    public void showCatalo() {
+    public void showCatalog() {
         System.out.println("Se muestra catalogo de series de fantasia.");
         
     }
