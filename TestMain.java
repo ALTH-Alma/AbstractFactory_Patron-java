@@ -1,3 +1,7 @@
+//Produce familia de objetos relacionados sin especificar sus clases concretas 
+// --> familia de objetos relacionados: catalogo de cierto tipo de ficción: movie catalog + series catalog ...ect
+// --> Variantes: de acción, de fantasia, de horror, etc...
+//--> ayuda a añadir nuevos objetos o familias sin modificar el codigo original --> implementa interfaces por cada variedad =/= de familia.
 import java.util.Scanner;
 
 public class TestMain {

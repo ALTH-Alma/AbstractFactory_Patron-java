@@ -1,4 +1,4 @@
-
+//Clase concreta de objeto
 public class HorrorMovieCatalog implements MovieCatalog{
 
     @Override
